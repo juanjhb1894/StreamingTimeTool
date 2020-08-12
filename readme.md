@@ -8,8 +8,8 @@ I was really inspired for Countdown Timer v2.1 by Glacks, but the app is a lot s
 [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-es/download/details.aspx?id=30653)
 
 ## For source code
-[Visual Studio 2019](https://visualstudio.microsoft.com/es/free-developer-offers/)
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-es/download/details.aspx?id=30653)
+[Visual Studio 2019](https://visualstudio.microsoft.com/es/free-developer-offers/) and 
+ [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-es/download/details.aspx?id=30653)
 
 # How to Use It
 
