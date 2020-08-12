@@ -14,6 +14,3 @@ I was really inspired for Countdown Timer v2.1 by Glacks, but the app is a lot s
 # How to Use It
 
 [![Tutorial Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-* Lists
-* of
-* items
